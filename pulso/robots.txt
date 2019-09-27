@@ -1,0 +1,4 @@
+User-Agent: * 
+Disallow: /wp- 
+Allow: /wp-content/uploads/ 
+Sitemap:/www.pulsourbano.mx
